@@ -1,5 +1,5 @@
 1. Recipe Finder based on dietary needs based on health conditions/age/etc.
 2. BC and Menstruation Tracking application with feature for health resources based on age, tobacco use, sexual activity, etc. This would include screening/vaccination/testing recommendations.
-3. Earthquake Tracker with 3D globe displaying events 
-4. Card Rule Checker holding the ofificial rules to card games with ability to save, search, etc.
-5. Bike and/or Rollerblading Accessibility app tracking the bike friendliness on a specified location.
+3. Earthquake Tracker with 3D globe displaying events.
+4. Card Rule Checker holding the official rules to card games with ability to save, search, etc.
+5. Bike and/or Rollerblading Accessibility app tracking the friendliness of a specified location.
